@@ -2,6 +2,7 @@
     "name": "lion/lion-errors",
     "description": "Lion error handler.",
     "type": "library",
+    "license": "MIT",
     "require": {
         "filp/whoops": "^2.14"
     },

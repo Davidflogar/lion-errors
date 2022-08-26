@@ -1,0 +1,14 @@
+{
+    "name": "lion/lion-errors",
+    "description": "Lion error handler.",
+    "type": "library",
+    "require": {
+        "filp/whoops": "^2.14"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lion\\LionErrors\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
